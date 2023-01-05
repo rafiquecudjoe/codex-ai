@@ -1,0 +1,11 @@
+{
+  "name": "codeex",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "cd server && npm server && cd ../client && npm dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
